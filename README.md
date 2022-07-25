@@ -25,6 +25,9 @@ BODY:
     "purchaseAmount" : 50.95
 }
 
+** Pleaes find response.json 
+
+
 # Below service Without db
  
 POST: http://localhost:9006/getCustomerRewards
