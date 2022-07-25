@@ -1,0 +1,50 @@
+[
+    {
+        "customerId": 123,
+        "earnedRewardPoint": 0,
+        "transcationAmount": 0.0,
+        "customerName": "Rama"
+    },
+    {
+        "customerId": 123,
+        "earnedRewardPoint": 10,
+        "transcationAmount": 0.0,
+        "customerName": "Rama"
+    },
+    {
+        "customerId": 123,
+        "earnedRewardPoint": 152,
+        "transcationAmount": 150.95,
+        "customerName": "Rama"
+    },
+    {
+        "customerId": 123,
+        "earnedRewardPoint": 152,
+        "transcationAmount": 150.95,
+        "customerName": "Rama"
+    },
+    {
+        "customerId": 123,
+        "earnedRewardPoint": 152,
+        "transcationAmount": 150.95,
+        "customerName": "Rama"
+    },
+    {
+        "customerId": 123,
+        "earnedRewardPoint": 152,
+        "transcationAmount": 150.95,
+        "customerName": "Rama"
+    },
+    {
+        "customerId": 123,
+        "earnedRewardPoint": 152,
+        "transcationAmount": 150.95,
+        "customerName": "Rama"
+    },
+    {
+        "customerId": 123,
+        "earnedRewardPoint": 250,
+        "transcationAmount": 200.0,
+        "customerName": "Rama"
+    }
+]
